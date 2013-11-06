@@ -1,0 +1,8 @@
+Format is tab separated vectorwrite settings.
+Name                          	Value
+WindowPosition	700+0
+Activate Vectorwrite	True
+Open File to Write Vector Graphics for	/home/altlab/Documents/Ferdi/sumol compal/sumol6.gcode
+Layers From (index):	0
+Layers To (index):	912345678
+SVG Viewer:	webbrowser

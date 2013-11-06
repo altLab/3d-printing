@@ -1,0 +1,5 @@
+Format is tab separated scalable vector graphics settings.
+Name                          	Value
+WindowPosition	0+0
+File Extension:	.svg
+SVG Viewer:	webbrowser
