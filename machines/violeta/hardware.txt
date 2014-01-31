@@ -1,0 +1,29 @@
+# Violeta
+
+## Model
+
+Cupcake CNC #209 (batch #7, October 2009). 
+
+## Mechanical Setup
+
+ * Plastruder Mk5
+ * Heated Build Platform
+
+## Electronics
+
+ * Gen 3 electronics 
+   * Makerbot Motherboard 1.2 
+   * Extruder Controller 2.2 
+ * Relay Board
+
+## Firmware
+
+ * Motherboard: 3.0 
+ * Extruder Controller: 3.0+relays 
+
+## Machine Profiles
+
+### Replicator G 0040 
+
+ * Cupcake Basic
+ * Cupcake + HBP
