@@ -1,0 +1,15 @@
+
+# Install newer firmware
+
+ * [Sailfish](http://www.thingiverse.com/thing:32084)
+
+# Experiment with other host software and slicing engines
+
+ * Cura 
+ * Repetier 
+ * Pronterface 
+ * repsnapper
+
+# Calibrate machine profile in Skeinforge 
+
+ * Start [here](http://www.makerbot.com/blog/2010/11/02/configuring-skeinforge-five-critical-settings-with-dave-durant/)
